@@ -1,0 +1,16 @@
+{
+  "name": "Scrim-s05ngju",
+  "description": "https://scrimba.com/learn-rag-c033/~0b",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "dependencies": {
+    "langchain": "0.0.167",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
